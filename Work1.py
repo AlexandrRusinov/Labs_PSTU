@@ -7,7 +7,6 @@ for i in range(len(s)):
 
 for i in range(len(s)):
     if s[i] in n:
-        d[s[i]]+=0
         d[s[i]]+=1
 
 ss=[ d.get('0'), d.get('1') , d.get('2') , d.get('3'), d.get('4'), d.get('5'), d.get('6'), d.get('7'), d.get('8') , d.get('9') ]
