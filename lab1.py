@@ -1,9 +1,6 @@
 from itertools import*
 from itertools import groupby
 n=int(input('Введите трехзначное число:'))
-a=n//100
-b=(n//10)%10
-c=n%10
 if len(str(n))!=3:
     print('Вы ввели не трехзначное число! Попробуйте снова.')
     while len(str(n))!=3:
