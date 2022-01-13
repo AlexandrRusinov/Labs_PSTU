@@ -2,7 +2,7 @@
 // f`(x) = 3x^2 - 1
 // f``(x) = 6x
 // [1,2]
-//                               МЕТОД ПОЛОВИННОГО ДЕЛЕНИЯ(Ньютона)
+//                               МЕТОД Ньютона
 #include <iostream>
 #include <cmath>
 using namespace std;
