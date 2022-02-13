@@ -43,7 +43,7 @@ int task(int n, string s1)//  lal lal lal
 }
 int main()
 {
-	string s1 = "lal lal lal";
+	string s1 = "lala lal lal";
 	s1 = s1 + " ";
 	int a[] = { -10, -20, -30, 50, 60 };
 	cout << task(s1.size(), s1) << endl;
